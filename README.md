@@ -12,7 +12,7 @@ The Learn IDE app runs against a Learn IDE server in our cloud, to which all use
 
 ## Why do we use the IDE
 
-Because the Learn IDE server has been configured to have all packages required to develop on Learn, there is effectively zero probability of a development environment configuration issue (e.g. the correct version of ruby will always be installed and by default made available to the user) complete with the learn gem already installed for them. The only class of error that should crop up will be (1) installation issues with the Learn IDE itself or (2) user account management issues, both of which this document should help troubleshoot.
+Because the Learn IDE server has been configured to have all packages required to develop on Learn, there is effectively zero probability of a development environment configuration issue (e.g. the correct version of ruby will always be installed and by default made available to the user) complete with the learn gem already installed for them. The only class of error that should crop up will be (1) installation issues with the Learn IDE itself or (2) user account management issues, both of which this track and the reference guide should help troubleshoot.
 
 
 <p class='util--hide'>View <a href='https://learn.co/lessons/learn-expert-the-learn-ide'>Learn Expert The Learn IDE </a> on Learn.co and start learning to code for free.</p>
