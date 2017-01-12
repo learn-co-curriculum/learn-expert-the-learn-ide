@@ -12,7 +12,12 @@ Note: The Windows version must be installed on an administrator account.
 
 The Learn IDE app runs against a Learn IDE server in our cloud, to which all users connect. The file system that is exposed to the user in the Learn IDE (in their `code` directory, seen in the file browser) is synchronized to the Learn IDE server. All commands the user types into the terminal window are relayed to the Learn IDE server and the response is echoed from that server.
 
-The file tree on the left and the text editor window on the top are on the users local machine. The command line on the button (and all the files you can see through the command line) are actually on the Learn server! Every time you save a file, it _should_ sync between the students local machine and the Learn server.
+The file tree on the left and the text editor window on the top are on the users local machine. The command line on the button (and all the files you can see through the command line) are actually on the Learn server! Every time you save a file, it syncs between the students local machine and the Learn server.
+
+To get a better understand of _how_ the Learn IDE works, check out this short video. 
+
+<iframe width="100%" height="720" src="https://www.youtube.com/embed/j7rvsCXXjug?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
+
 
 ## Why do we use the IDE
 
