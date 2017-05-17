@@ -12,7 +12,7 @@ Note: The Windows version must be installed on an administrator account.
 
 The Learn IDE (client) runs against a Learn IDE server in our cloud, to which all users connect. The file system that is exposed to the user in the Learn IDE (in their `code` directory, seen in the file browser) is synchronized to the Learn IDE server. All commands the user types into the terminal window are relayed to the Learn IDE server and the response is echoed from that server.
 
-The file tree on the left and the text editor window on the top are on the users local machine. The command line on the button (and all the files you can see through the command line) are actually on the Learn server! Every time you save a file, it syncs between the students local machine and the Learn server.
+The file tree on the left and the text editor window on the top are on the users local machine. The command line on the bottom (and all the files you can see through the command line) are actually on the Learn server! Every time you save a file, it syncs between the students local machine and the Learn server.
 
 To get a better understand of _how_ the Learn IDE works, check out this short video. 
 
@@ -27,3 +27,5 @@ Because the Learn IDE server has been configured to have all packages required t
 As a Learn Expert, you will need to have the Learn IDE installed so that you can trouble shoot issues. When trying to reproduce a student's issue when they're on the Learn IDE, what better place than in your own Learn IDE! This way you will be using the exact same environment setup.
 
 If you don't already have the Learn IDE, select the [correct download link](https://github.com/flatiron-labs/learn-support/blob/master/learn-ide.md#reference-links) for your OS and please install it!
+
+<p class='util--hide'>View <a href='https://learn.co/lessons/learn-expert-the-learn-ide'>The Learn IDE</a> on Learn.co and start learning to code for free.</p>
