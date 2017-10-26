@@ -8,6 +8,8 @@ The Learn IDE is a cross-platform application (OS X, Windows) that allows Learn 
 
 Note: The Windows version must be installed on an administrator account.
 
+Ruth -TEST
+
 ## How Does It Work?
 
 The Learn IDE (client) runs against a Learn IDE server in our cloud, to which all users connect. The file system that is exposed to the user in the Learn IDE (in their `code` directory, seen in the file browser) is synchronized to the Learn IDE server. All commands the user types into the terminal window are relayed to the Learn IDE server and the response is echoed from that server.
