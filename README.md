@@ -18,8 +18,6 @@ To get a better understand of _how_ the Browser Learn IDE works, check out this 
 
 <iframe width="100%" height="720" src="https://www.youtube.com/embed/lfGZRD3wErk" frameborder="0" allowfullscreen></iframe>
 
-<!-- <iframe width="100%" height="720" src="https://www.youtube.com/embed/j7rvsCXXjug?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe> -->
-
 ## Why do we use the IDE
 
 Because the Browser Learn IDE server has been configured to have all packages required to develop on Learn, there is effectively zero probability of a development environment configuration issue (e.g. the correct version of ruby will always be installed and by default made available to the user) complete with the `learn-co` gem already installed for them. The only class of error that should crop up will be user account management issues, which this track and the reference guide should help troubleshoot.
