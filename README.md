@@ -1,14 +1,10 @@
-# The Learn IDE
+# The Browser Learn IDE
 
 ![learn ide](http://i.giphy.com/ZHlGzvZb130nm.gif)
 
 ## What is It?
 
-The Learn IDE is a cross-platform application (OS X, Windows) that allows Learn users to (1) write code in a modern text editor (Atom) and (2) use a fully-configured Terminal, in a way that feels like local development but is, in fact, virtualized behind the scenes. The application is our own custom fork of GitHub's Atom text editor, that adds to it a virtualized Terminal.
-
-Note: The Windows version must be installed on an administrator account.
-
-Ruth -TEST
+The Browser Learn IDE is a cross-platform application (OS X, Windows) that allows Learn users to (1) write code in a modern text editor (Atom) and (2) use a fully-configured Terminal, in a way that feels like local development but is, in fact, virtualized behind the scenes. The application is our own custom fork of GitHub's Atom text editor, that adds to it a virtualized Terminal.
 
 ## How Does It Work?
 
