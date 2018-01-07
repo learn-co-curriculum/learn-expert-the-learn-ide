@@ -8,7 +8,7 @@ The Browser Learn IDE is a cross-platform application (OS X, Windows) that allow
 
 ## How Does It Work?
 
-The Browser Learn IDE (client) runs against a Learn IDE server in our cloud, to which all users connect. The file system that is exposed to the user in the Learn IDE (in their `temporary` directory, seen in the file browser) is synchronized to the Learn IDE server. All commands the user types into the terminal window are relayed to the Learn IDE server and the response is echoed from that server.
+The Browser Learn IDE (client) runs against a Learn IDE server in our cloud, to which all users connect. The file system that is exposed to the user in the Learn IDE is synchronized to the Learn IDE server. All commands the user types into the terminal window are relayed to the Learn IDE server and the response is echoed from that server.
 
 When the students click on the open button in order to open a lab. They browser ide will open in the lesson and will clone a fresh copy of their lab automatically.
 
