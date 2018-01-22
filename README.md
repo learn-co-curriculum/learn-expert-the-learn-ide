@@ -4,7 +4,7 @@
 
 ## What is It?
 
-The Browser Learn IDE is a cross-platform application (OS X, Windows) that allows Learn users to (1) write code in a modern text editor (Atom) and (2) use a fully-configured Terminal, in a way that feels like local development but is, in fact, virtualized behind the scenes. The application is our own custom fork of GitHub's Atom text editor, that adds to it a virtualized Terminal.
+The Browser Learn IDE is a cross-platform application (OS X, Windows) that allows Learn users to (1) write code in a modern text editor and (2) use a fully-configured Terminal, in a way that feels like local development but is, in fact, virtualized behind the scenes.
 
 ## How Does It Work?
 
